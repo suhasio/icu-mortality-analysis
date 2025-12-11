@@ -1,2 +1,4 @@
 csvs/
 *.csv
+
+.DS_Store
