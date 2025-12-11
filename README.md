@@ -6,10 +6,10 @@ This project explores early vitals and labs to identify signals associated with 
 
 ## 2. Research Questions:
 
-RQ1. How do early vital signs differ between survivors and non-survivors?
-RQ2. How do early laboratory values differ between survivors and non-survivors?
-RQ3. Which variables show the strongest association with mortality?
-RQ4. How does ICU length of stay differ between survivors and non-survivors?
+- RQ1: How do early vital signs differ between survivors and non-survivors?
+- RQ2: How do early laboratory values differ between survivors and non-survivors?
+- RQ3: Which variables show the strongest association with mortality?
+- RQ4: How does ICU length of stay differ between survivors and non-survivors?
 
 ## 3. Summary of Key Findings:
 
